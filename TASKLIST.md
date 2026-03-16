@@ -34,3 +34,4 @@
 ### 2026-03-16
 - Added initial Phase 1 backend scaffolding and validation tooling.
 - Added an in-repo ongoing task tracker (this file).
+- Verified README has no merge conflict markers and added merge-readiness section.

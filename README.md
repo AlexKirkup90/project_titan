@@ -20,6 +20,13 @@ Legacy coaching platforms are mostly rules-based and static. Titan is designed a
 
 ---
 
+## Merge Readiness
+
+This README is intentionally maintained without conflict markers.
+A pre-merge check for Git conflict marker patterns should return no matches.
+
+---
+
 ## Current Build Status
 
 We are actively implementing **Phase 1: Zero-Friction Ingestion Pipeline**.
