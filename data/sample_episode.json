@@ -1,0 +1,26 @@
+{
+  "episode_id": "2026-03-16_user_01",
+  "block_a_state": {
+    "oura_readiness": 72,
+    "oura_hrv_ms": 45,
+    "oura_sleep_duration_mins": 375,
+    "medichecks_latest_ferritin_ugL": null,
+    "calendar_load_hours": 6
+  },
+  "block_b_action": {
+    "prescribed_training": "Morpheus Zone 2, 45 mins",
+    "target_protein_g": 140,
+    "supplementation": ["Thorne Multi", "Creatine 5g"]
+  },
+  "block_c_reward": {
+    "t_plus_1_hrv_delta": null,
+    "t_plus_1_rpe": null,
+    "cronometer_compliance_score": null
+  },
+  "metadata": {
+    "tags": ["traveling", "high_stress"],
+    "null_reasons": {
+      "block_a_state.medichecks_latest_ferritin_ugL": "Awaiting next quarterly panel"
+    }
+  }
+}
